@@ -1,3 +1,8 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+  }
 form{
     width: 250px;
     background: #ddd;
@@ -13,8 +18,6 @@ input[type="text"]
     padding: 5px 5px;
     box-sizing: border-box;
     text-align: right;
-    
-
 }
 
 input[type="button"]{
